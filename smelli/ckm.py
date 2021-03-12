@@ -6,7 +6,7 @@ from abc import ABC, abstractmethod
 
 
 m = flavio.Measurement('CKM ratio measurements')
-m.set_constraint('RKpi(P+->munu)', '1.3368+-0.0032')
+m.set_constraint('RKpi(P+->munu)', '1.3367+-0.0028')
 m.set_constraint('DeltaM_d/DeltaM_s', '0.02852+-0.00011')
 
 
