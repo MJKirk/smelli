@@ -9,6 +9,7 @@
 - BR(D0->Kenu)
 - BR(D0->Kmunu)
 - BR(D+->pienu)
+- BR(D+->pimunu)
 - BR(D+->Kenu)
 - BR(D+->Kmunu)
 - name: <BR>(D0->pienu)
