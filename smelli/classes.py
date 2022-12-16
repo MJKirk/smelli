@@ -140,6 +140,7 @@ class GlobalLikelihood(object):
         self._observables = None
         self.fix_ckm = fix_ckm
         if self.fix_ckm:
+            raise ValueError("I didn't regenerate the covariances for this case")
             self._fast_likelihoods_yaml = self._fast_likelihoods_yaml_fixckm
         try:
             self._ckm_scheme = get_ckm_schemes()[ckm_scheme]
