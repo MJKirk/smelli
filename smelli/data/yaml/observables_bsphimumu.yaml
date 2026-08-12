@@ -46,3 +46,23 @@
 - name: <S7>(Bs->phimumu)
   q2min: 15.0
   q2max: 18.9
+
+# CMS Bs->phimumu 2026
+# - name: <FL>(Bs->phimumu)
+#   q2min: 1.1
+#   q2max: 4
+# - name: <FL>(Bs->phimumu)
+#   q2min: 4
+#   q2max: 6
+# - name: <FL>(Bs->phimumu)
+#   q2min: 6
+#   q2max: 8
+# - name: <FL>(Bs->phimumu)
+#   q2min: 11
+#   q2max: 12.5
+- name: <FL>(Bs->phimumu)
+  q2min: 15
+  q2max: 16
+- name: <FL>(Bs->phimumu)
+  q2min: 16
+  q2max: 19
