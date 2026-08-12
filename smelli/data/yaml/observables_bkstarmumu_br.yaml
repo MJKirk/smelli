@@ -133,9 +133,9 @@
 # - name: <dBR/dq2>(B+->Kmumu)
 #   q2min: 11.8
 #   q2max: 12.5
-- name: <dBR/dq2>(B+->Kmumu)
-  q2min: 14.82
-  q2max: 16.0
+# - name: <dBR/dq2>(B+->Kmumu)
+#   q2min: 14.82
+#   q2max: 16.0
 - name: <dBR/dq2>(B+->Kmumu)
   q2min: 16.0
   q2max: 17.0
